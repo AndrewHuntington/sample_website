@@ -8,3 +8,34 @@
   text-decoration: none;
   color: blue;
 }
+.image-link {
+  text-decoration: none;
+}
+.md-header {
+  text-align: center;
+  margin: 0 0 80px;
+}
+.md-whale-pic {
+  display: block;
+  margin: 0 auto;
+}
+.md-main-content {
+  width: 500px; 
+  margin: 20px auto;
+  padding: 30px; 
+  background-color: #fafafa;
+}
+.md-bookcover-img {
+  float: left; 
+  margin: 0 40px 0 0;
+}
+.md-bquote {
+  font-style: italic;
+  font-size: 20px;
+}
+.md-opening-text {
+  font-style: normal;
+  font-size: 24px;
+  font-weight: bold;
+  color: #f00;
+}
